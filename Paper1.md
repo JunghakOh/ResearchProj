@@ -7,10 +7,16 @@ GPS가 없이 이동통신 단말기의 위치를 찾는 문제에는 완벽한 
    * 휴대용 라우터 분실시 위치 추적(3G WCDMA·CDMA2000 / 4G LTE·WiBro 등의 이동통신망 신호를 Wi-Fi나 블루투스로 변환해 주는 라우터,한국에서 에그, 포켓파이로 불림)
 ### 위와 같은 필요성에 측위 시스템 정확도 향상에 관련 연구를 하게 되었다. 
 * 참고 논문으로 아래 두개의 논문을 분석해 보았다. 
+ * DeepPositioning:  Intelligent Fusion of Pervasive Magnetic Field and WiFi Fingerprinting for Smartphone Indoor Localization via Deep Learning
+    * 머신러닝을 이용한 실내측위에 대해 구체적인 방법론이 나와있어 함께 분석 하였다.
   * 위치기반서비스의 측위시스템 정확도 향상에 관한 연구
     * 이 논문은 뚜렷한 문제 해결 방법은 없지만 지금까지 나온 위치 측정 방법들에 대해 잘 설명 되어있다.
-  * DeepPositioning:  Intelligent Fusion of Pervasive Magnetic Field and WiFi Fingerprinting for Smartphone Indoor Localization via Deep Learning
-    * 머신러닝을 이용한 실내측위에 대해 구체적인 방법론이 나와있어 함께 분석 하였다.
+ 
+### DeepPositioning:  Intelligent Fusion of Pervasive Magnetic Field and WiFi Fingerprinting for Smartphone Indoor Localization via Deep Learning 분석([논문 원본 링크](https://ieeexplore.ieee.org/document/8260607))
+
+
+이 논문에서는 립러닝을 이용한 위치 측위 시스템을 제안하였다. 지금 까지는 실내에 WIFI가 널리 보급되었기 때문에 대부분의 스마트폰 실내 측위 시스템은 와이파이 위치탐지를 기반으로 하였다. DeepPositioning은 오프라인 학습 단계와 온라인 서비스 단계로 구성되어 있다. 오프라인 학습 단계에서는 스마트폰으로 보다 구체적인 지도특징정보를 딥러닝 기법으로 추출한다. 오프라인 단계는 주로 사전 설정된 기준 위치의 조사 데이터를 수집하고 사전 처리하여 데이터베이스 구축을 위한 것이다.
+
 ### 위치기반서비스의 측위시스템 정확도 향상에 관한 연구 분석([논문 원본 링크](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02500799))
 
 이 논문에서는 아래의 5가지 위치 측위 방법에 대해 설명하였다.
@@ -49,10 +55,6 @@ GPS가 없이 이동통신 단말기의 위치를 찾는 문제에는 완벽한 
 #### 위치 측정 결과 분석
 ![위치 측정 결과 분석](./table1.PNG)
 표에서와 같인 GPS가 없으면 정확도가 현저히 떨어지는 것을 알 수 있다. 
-### DeepPositioning:  Intelligent Fusion of Pervasive Magnetic Field and WiFi Fingerprinting for Smartphone Indoor Localization via Deep Learning 분석([논문 원본 링크](https://ieeexplore.ieee.org/document/8260607))
-
-
-이 논문에서는 립러닝을 이용한 위치 측위 시스템을 제안하였다. 지금 까지는 실내에 WIFI가 널리 보급되었기 때문에 대부분의 스마트폰 실내 측위 시스템은 와이파이 위치탐지를 기반으로 하였다. DeepPositioning은 오프라인 학습 단계와 온라인 서비스 단계로 구성되어 있다. 오프라인 학습 단계에서는 스마트폰으로 보다 구체적인 지도특징정보를 딥러닝 기법으로 추출한다. 오프라인 단계는 주로 사전 설정된 기준 위치의 조사 데이터를 수집하고 사전 처리하여 데이터베이스 구축을 위한 것이다.
 
 
 
