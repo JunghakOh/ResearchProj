@@ -11,4 +11,4 @@ GPS가 없이 이동통신 단말기의 위치를 찾는 문제에는 완벽한 
     * 이 논문은 뚜렷한 문제 해결 방법은 없지만 지금까지 나온 위치 측정 방법들에 대해 잘 설명 되어있다.
   * DeepPositioning:  Intelligent Fusion of Pervasive Magnetic Field and WiFi Fingerprinting for Smartphone Indoor Localization via Deep Learning
     * 머신러닝을 이용한 실내측위에 대해 구체적인 방법론이 나와있어 함께 분석 하였다.
-### 위치기반서비스의 측위시스템 정확도 향상에 관한 연구 분석([논문 원본 링크]( ))
+### 위치기반서비스의 측위시스템 정확도 향상에 관한 연구 분석([논문 원본 링크](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02500799))
