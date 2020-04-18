@@ -17,7 +17,7 @@ GPS가 없이 이동통신 단말기의 위치를 찾는 문제에는 완벽한 
 * 전파의 도착 시간(TOA)을 이용하는 방법
   전파의 도착시간을 이용하는 기법은 기준국에서 수신기까지 전파의 도착시간을 이용하여 거리를 계산하고 
   3개 이상의 기준국으로부터 거리를 계산함으로써 3개의 위치선을 이용하여 위치를 계산하는 것으로 삼각측량법에 의한 것이다.
-  TOA기법 윈리(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FLocation-by-ranges-such-as-RSS-or-TOA-measurements_fig1_309846689&psig=AOvVaw1PtGUkenKiMMgZb8XPtI8t&ust=1587271073545000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjT2d-T8egCFQAAAAAdAAAAABAD)
+  ![TOA기법 윈리](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FLocation-by-ranges-such-as-RSS-or-TOA-measurements_fig1_309846689&psig=AOvVaw1PtGUkenKiMMgZb8XPtI8t&ust=1587271073545000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjT2d-T8egCFQAAAAAdAAAAABAD)
 * 전파의 도착 시간차(DTOA)를 이용하는 방법
 * 전파의 도달 방위각(AOA)를 이용하는 방법
 * 전파 세기(RSSI)를 이용하는 기법
