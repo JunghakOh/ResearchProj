@@ -5,3 +5,7 @@ GPS가 없이 이동통신 단말기의 위치를 찾는 문제에는 완벽한 
    * GPS가 탑재되지 않은 단말기를 사용하는 노인이나 어린이의 실종시 구조를 위한 위치 추적
    * GPS가 작동하지 않는 실내에서 측위가 필요할때
    * 휴대용 라우터 분실시 위치 추적(3G WCDMA·CDMA2000 / 4G LTE·WiBro 등의 이동통신망 신호를 Wi-Fi나 블루투스로 변환해 주는 라우터,한국에서 에그, 포켓파이로 불림)
+### 위와 같은 필요성에 측위 시스템 정확도 향상에 관련 연구를 하게 되었다. 
+* 참고 논문으로 아래의 두개의 논문을 분석해 보았다. 
+  * 위치기반서비스의 측위시스템 정확도 향상에 관한 연구
+  * DeepPositioning:  Intelligent Fusion of Pervasive Magnetic Field and WiFi Fingerprinting for Smartphone Indoor Localization via Deep Learning
