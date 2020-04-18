@@ -49,6 +49,8 @@ GPS가 없이 이동통신 단말기의 위치를 찾는 문제에는 완벽한 
 #### 위치 측정 결과 분석
 ![위치 측정 결과 분석](./table1.PNG)
 표에서와 같인 GPS가 없으면 정확도가 현저히 떨어지는 것을 알 수 있다. 
-### DeepPositioning:  Intelligent Fusion of Pervasive Magnetic Field and WiFi Fingerprinting for Smartphone Indoor Localization via Deep Learning([논문 원본 링크](https://ieeexplore.ieee.org/document/8260607)
+### DeepPositioning:  Intelligent Fusion of Pervasive Magnetic Field and WiFi Fingerprinting for Smartphone Indoor Localization via Deep Learning([논문 원본 링크](https://ieeexplore.ieee.org/document/8260607))
+
+
 
 
