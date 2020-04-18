@@ -3,7 +3,7 @@
 
 ### 2020년 4월  스터디
 * 목표
-  * 참고 논문 2개읽고 이해 및 분석 후 블로그로 정리한다.https://github.com/JunghakOh/ResearchProj/blob/master/Paper1.md
+  * 참고 논문 2개읽고 이해 및 분석 후 블로그로 정리한다.정리된 블로그 링크"https://github.com/JunghakOh/ResearchProj/blob/master/Paper1.md"
     * 위치기반서비스의 측위시스템 정확도 향상에 관한 연구      
     * DeepPositioning: Intelligent Fusion of Pervasive Magnetic Field and WiFi Fingerprinting for Smartphone Indoor Localization via Deep Learning
 
