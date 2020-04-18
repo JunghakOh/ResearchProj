@@ -45,3 +45,7 @@ GPS가 없이 이동통신 단말기의 위치를 찾는 문제에는 완벽한 
 ![RSSI기법 원리](./RSSI.PNG)
   
   * 기타(Cell-ID,WiFi, NCF)를 이용한 방법
+이 외에도 실내 또는 전파 수신이 잘 안 되는 곳에서 위치 측정을 위해 휴대폰 기지국 Cell-ID를 이용하거나 Wi-Fi 등을 이용한 무선랜(WLAN; Wireless Local Area Network), 근거리 통신망인 NCF나 UWB(Ultra Wide Band)를 이용한 방법 들이 있다.\
+#### 위치 측정 결과 분석
+![위치 측정 결과 분석](./table1.PNG)
+
