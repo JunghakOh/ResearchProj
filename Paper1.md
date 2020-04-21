@@ -33,7 +33,7 @@ wifi지도법은  관측 값과 미리 기록된 건물내부DB 값과 비교하
 지금 부터 이 논문에서 제안한 the DeepPositioning system을 설명하려고 한다. 시스템 흐르음 아래 그림과 같다. 
 ![TheDeepPositioningSystem 원리](./deeppos.PNG) 
 
-
+이 시스템은 이미 존재하는 APs를 제외한 어떤 인프라도 필요하지 않다. 또란 AP위치에 대한 사전 요구 사항도 없다.AP위치 정보는 상업용 또는 정부 건물의 경우 사용이 불가한 경우도 있었다. 
 
 
 
