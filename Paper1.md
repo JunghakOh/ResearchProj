@@ -31,7 +31,7 @@ wifi지도법은  관측 값과 미리 기록된 건물내부DB 값과 비교하
 #### 본 논문에서 제안한 방법(The DeepPositioning System)
 
 지금 부터 이 논문에서 제안한 the DeepPositioning system을 설명하려고 한다. 시스템 흐르음 아래 그림과 같다. 
-![TheDeepPositioningSystem 원리](./DeepPos.PNG) 
+![TheDeepPositioningSystem 원리](./deeppos.PNG) 
 
 
 
