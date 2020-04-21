@@ -24,6 +24,14 @@ GPS가 없이 이동통신 단말기의 위치를 찾는 문제에는 완벽한 
 
 wifi 신호 처리 방식에 따라 wifi 기반 접근 방식은 AOA, TOA or DTOA, fingerprinting approaches로 나누어 볼 수 있다. 
 * fingerprinting approaches 를 번역하기 애매하며 wifi지도법 이라고 하였다.
+wifi지도법은  관측 값과 미리 기록된 건물내부DB 값과 비교하는데 초첨을 둔다.
+좀 더 구체적으로 wifi 지도법은 오프라인, 온라인 두가지 단계로 나누어 볼 수 있다.
+전통적인 방법은 수동적인 데이터 분석, 정확한 위치 기록을 만들기위한 시간이 요구된다.  이러한 방버들은 큰 빌딩이나 다량의 데이터에는 적용하기 어렵다. 머신러닝 방법은 wifi지도를 train하는데 사용된다. 최근 deep learning을 활용한 실내 측위 정확도를 높이기 위한 다양한 방법들이 발표 되었다. 
+
+#### 본 논문에서 제안한 방법(The DeepPositioning System)
+
+지금 부터 이 논문에서 제안한 the DeepPositioning system을 설명하려고 한다. 시스템 흐르음 아래 그림과 같다. 
+![TheDeepPositioningSystem 원리](./DeepPos.PNG) 
 
 
 
