@@ -14,8 +14,15 @@ GPS가 없이 이동통신 단말기의 위치를 찾는 문제에는 완벽한 
  
 ### DeepPositioning:  Intelligent Fusion of Pervasive Magnetic Field and WiFi Fingerprinting for Smartphone Indoor Localization via Deep Learning 분석([논문 원본 링크](https://ieeexplore.ieee.org/document/8260607))
 
+이 논문은 크게  Introduction,Related work,The DeepPositioning System(제안하는 방법 소개),Experiment Validation(셀제 환경에서 실험 과정), 결론 등 5개의 부분으로 나누어 볼 수 있다. 
 
+#### Introduction 
 이 논문에서는 립러닝을 이용한 위치 측위 시스템을 제안하였다. 지금 까지는 실내에 WIFI가 널리 보급되었기 때문에 대부분의 스마트폰 실내 측위 시스템은 와이파이 위치탐지를 기반으로 하였다. DeepPositioning은 오프라인 학습 단계와 온라인 서비스 단계로 구성되어 있다. 오프라인 학습 단계에서는 스마트폰으로 보다 구체적인 지도특징정보를 딥러닝 기법으로 추출한다. 오프라인 단계는 주로 사전 설정된 기준 위치의 조사 데이터를 수집하고 사전 처리하여 데이터베이스 구축을 위한 것이다.
+
+
+
+
+
 
 ### 위치기반서비스의 측위시스템 정확도 향상에 관한 연구 분석([논문 원본 링크](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02500799))
 
