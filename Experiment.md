@@ -4,7 +4,7 @@
 
 cell id와 신호세기 측정을 위해 "Mobile tower cell id tracker"어플리케이션을 사용하였다.
 
-![데이터 수집에 사용된 어플리케이션] (./ap_used.PNG) 
+![데이터 수집에 사용된 어플리케이션] (./ap_used.png) 
 
 "Network Info","Network Cell Info Lite"어플리 케이션을 사용하여 데이터 수집 시도했지만 수집된 정보를 엑셀 형태로 저장하는 기능이 없어 최종사용하지 않았다. 
 
