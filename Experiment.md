@@ -10,6 +10,10 @@ cell id와 신호세기 측정을 위해 "Mobile tower cell id tracker"어플리
   
  cell id 로 부터 위치를 얻기 위해 opencell ID 플랫폼을 사용하였다.([Opencell ID 링크](https://opencellid.org))
  
+ 개인 키를 발급받고 post방식으로 호출하면 위치 정보를 json 파일 형태로 리턴한다.
+![그림2:opencellid API설명](./api.PNG)  
+ 
+ 
 
 
 ![그림1:데이터 수집에 사용된 어플리케이션](./ap_used.png) 
