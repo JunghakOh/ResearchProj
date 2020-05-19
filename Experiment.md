@@ -24,6 +24,8 @@ A논문의 경우 구체적인 해결방법은 없지만 지금까지 측위 방
 
 수집된 정보로 Cell based location detection 방법을 적용해 이동 경로를 구한다음 실제 경로와의 차이를 관찰하였다. 
 
+ ![그림4:google map에 시각화한 실제위치와 추적위치 차이](./map.PNG)  
+
  cell id 로 부터 위치를 얻기 위해 opencell ID 플랫폼을 사용하였다.([Opencell ID 링크](https://opencellid.org))
 
  개인 키를 발급받고 post방식으로 호출하면 위치 정보를 json 파일 형태로 리턴한다.
