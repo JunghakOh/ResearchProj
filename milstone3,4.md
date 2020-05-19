@@ -50,7 +50,7 @@ a=20log(4piR/λ) (2)
 ### 구체적인 실험 과정
 
 * 실험장소는 37°30'54.4"N 126°49'59.9"E 로부터 37.513595, 126.855636까지 왕복5.4km를 일정속도로 걸어서 이동하면서 cell id 와 signal 수집하였다.
-"Mobile tower cell id tracker"어플리케이션을 통해 수집한 데이터 샘플
+"Mobile tower cell id tracker"어플리케이션을 통해 수집한 데이터 샘플[구간B]
 ![그림5:데이터 수집 예시](./dataex.PNG)  
 수집된 정보로 Cell based location detection 방법을 적용해 이동 경로를 구한다음 실제 경로와의 차이를 관찰하였다. 
  cell id 로 부터 위치를 얻기 위해 opencell ID 플랫폼을 사용하였다.([Opencell ID 링크](https://opencellid.org))
