@@ -18,7 +18,7 @@ A논문의 경우 구체적인 해결방법은 없지만 지금까지 측위 방
 
 * 실험은 Android 9 시스템이 설치된 Sumsung SM-J730K(Galaxy J7) 모델 스마트폰을 이용하여 진행되었다.
 * cell id와 신호세기 측정을 위해 "Mobile tower cell id tracker"어플리케이션을 사용하였다.[그림1]
-* 셀 database는 opencellid.org를 [링크](opencellid.org) 사용 하였다. 
+* 셀 database는 opencellid.org를 [링크](http://opencellid.org) 사용 하였다. 
 * 실험장소는 37°30'54.4"N 126°49'59.9"E 로부터 37.513595, 126.855636까지 왕복5.4km를 일정속도로 걸어서 이동하면서 cell id 와 signal 수집하였다.
 
 
