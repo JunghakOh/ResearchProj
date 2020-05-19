@@ -27,6 +27,7 @@ A논문의 경우 구체적인 해결방법은 없지만 지금까지 측위 방
  cell id 로 부터 위치를 얻기 위해 opencell ID 플랫폼을 사용하였다.([Opencell ID 링크](https://opencellid.org))
 
  개인 키를 발급받고 post방식으로 호출하면 위치 정보를 json 파일 형태로 리턴한다.
+ ![그림3:POSTMAN을 사용한 호출 예시](./callex.PNG)  
 ![그림2:opencellid API설명](./api.PNG)  
  
  
