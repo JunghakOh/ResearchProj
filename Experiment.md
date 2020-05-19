@@ -21,10 +21,9 @@ A논문의 경우 구체적인 해결방법은 없지만 지금까지 측위 방
 * 셀 database는 opencellid.org를 [링크](http://opencellid.org) 사용 하였다. 
 * 실험장소는 37°30'54.4"N 126°49'59.9"E 로부터 37.513595, 126.855636까지 왕복5.4km를 일정속도로 걸어서 이동하면서 cell id 와 signal 수집하였다.
 
-
 수집된 정보로 Cell based location detection 방법을 적용해 이동 경로를 구한다음 실제 경로와의 차이를 관찰하였다. 
 
- ![그림4:google map에 시각화한 실제위치와 추적위치 차이](./cellmap1.png){: width="300" height="300")
+ ![그림4:google map에 시각화한 실제위치와 추적위치 차이](./cellmap1.png)
 
  cell id 로 부터 위치를 얻기 위해 opencell ID 플랫폼을 사용하였다.([Opencell ID 링크](https://opencellid.org))
 
