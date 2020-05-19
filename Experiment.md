@@ -1,4 +1,9 @@
 ### 실험 과정 및 결과
+* 재연한 논문 설명
+이번 실험의 과제는 참고논문 실험을 재연해 보고, 개선점에 대한 아이디어를 도출하는 것이다.
+제가 선정한 참고 논문은 "위치기반서비스의 측위시스템 정확도 향상에 관한 연구 분석"([논문 원본 링크](http://www.dbpia.co.kr/journal/articleDetail?고이고 교수님께서 함께 분석하라고 하신 논문은 DeepPositioning:  Intelligent Fusion of Pervasive Magnetic Field and WiFi Fingerprinting for Smartphone Indoor Localization via Deep Learning 분석([논문 원본 링크](https://ieeexplore.ieee.org/document/8260607))
+입니다. 
+
 
 실험은 Android 9 시스템이 설치된 Sumsung SM-J730K(Galaxy J7) 모델 스마트폰을 이용하여 진행되었다.
 
